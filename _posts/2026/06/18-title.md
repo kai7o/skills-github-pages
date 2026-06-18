@@ -1,4 +1,4 @@
 ---
-title: "今日の日記"
+title: "YOUR-TITLE"
 date: 2026/06/18
 ---
